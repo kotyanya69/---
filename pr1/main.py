@@ -1,5 +1,5 @@
 
-#text = 'proizvolnyi text'
+#text = 'proizvolny text'
 text = input('Введите произвольный текст: ')
 mydict = dict()
 for i in text:
