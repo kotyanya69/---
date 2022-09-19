@@ -1,6 +1,6 @@
 
-text = 'proizvolnyi text'
-# text = input('Введите произовльный текст: ')
+#text = 'proizvolnyi text'
+text = input('Введите произовльный текст: ')
 mydict = dict()
 for i in text:
     if i == ' ':
